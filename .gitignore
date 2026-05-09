@@ -1,0 +1,7 @@
+/uploads
+
+# Environment variables
+.env
+
+# Sensitive configuration
+config.local.php
